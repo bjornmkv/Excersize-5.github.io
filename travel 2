@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <meta charset="utf-8">
+
+        <title>CSS:</title>
+
+        <style>
+
+        
+
+        h1 {
+
+            color: rgb(211, 2, 115);
+
+        }  
+
+    
+
+        p {
+
+            color: rgb(29, 14, 242);
+
+        }
+
+        body { color: rgb(194, 60, 194);}
+
+        
+
+        ol { 
+
+            color: rgb(230, 23, 33);
+
+        }
+
+        
+
+         ul { 
+
+            color: rgb(176, 97, 101);
+
+        }
+
+      #text {
+
+            background-color: rgb(37, 199, 159);
+
+        }
+
+        
+
+        </style>
+
+    </head>
+
+    <body>
+
+
+    <h1>Traveling to New York City</h1>
+
+    
+
+       <h2>Reasons to visit.</h2>
+
+       
+
+   
+
+    <ol>
+
+        <li>Great museams.</li>
+
+        <li>Great Food.</li>
+
+        <li>Unlike anywhere else.</li>
+
+    </ol>
+
+    
+
+
+   
+
+    
+
+    <p>Nyc can be a great city to visit at any time of year.    Fall is probably the best time, as it is less crowded and the temperature is less hot.<strong> NYC has more to see then <em>any</em> other city</strong>.</p>
+
+    
+
+    <h2>Sights not to miss:</h2>
+
+        <ul>
+
+        <li>Met museam</li>
+
+        <li>Empire state building</li>
+
+        <li>Pretty much everything</li>
+
+        <li>Central park</li>
+
+    </ul>
+
+<body id="text">             note, bring a mask. </body>
+
+    <p>In conclusion, i recommend visiting <br>
+
+It can be a cheaper trip then you would think,<br>
+
+if you shop around for hotels.<br>It is an experience I would suggest to anyone at least once.</p>
+
+    
+
+    <img src="https://www.kasandbox.org/programming-images/avatars/avatar-team.png" alt="NYC picture of city. (i tried to link external file but it wouldnt let me.) " width="200"> 
+
+    
+
+ 
+
+    
+
+    
+
+    </body>
+
+</html>
