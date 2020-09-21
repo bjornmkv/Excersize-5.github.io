@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <meta charset="utf-8">
+
+        <title>Project: Blog</title>
+
+    </head>
+
+    <body>        <meta charset="utf-8">
+
+    
+
+        <title>More CSS</title>
+
+        <style>
+
+        body {
+
+            font-size: 15px; background:powderblue;
+
+        }
+
+        
+
+        h1 {
+
+            color: rgb(59, 13, 247);
+
+            font-size: 1.5em;
+
+        }  
+
+        
+
+          h2 {
+
+            color: rgb(240, 45, 31);
+
+            font-size: 2em;
+
+        }  
+
+        
+
+          h6 {
+
+            color: rgb(43, 35, 43);
+
+            font-size: 1em;
+
+        }  
+
+        
+
+        #heading {
+
+            background-color: yellow;
+
+        }
+
+        
+
+        p {
+
+            color: rgb(62, 120, 28);
+
+            font-family: "Helvetica", sans-serif;
+
+        }
+
+        
+
+         .cheeseinfo {
+
+            background-color: yellow;
+
+            font-family: fantasy;
+
+            font-size: 13px;
+
+            font-style: italic;
+
+        }
+
+          </style>
+
+        
+
+        <h1>Bjorn's blog</h1>
+
+
+        <h1>Contents</h1>
+
+        <ul>
+
+            <li>Things i like about cheese.</li>
+
+            <li>Advice on cheese.</li>
+
+            <li> Why I dont like cheese anymore. 
+
+        </ul>
+
+        
+
+        <h2>My experience with cheese:</h2>
+
+        <h6>2/20/1988</h6>
+
+        
+
+        <p>I went to the store this year, and got cheese. I kept it all this time in a sock. I feel like it probably has gone up in value, but maybe not. </p>
+
+        
+
+        <h6>2/20/2020</h6>
+
+        
+
+        I checked up on my cheese. It has <strong>NOT</strong> appreciated in value. I feel like it has turned into something entirely else. I am dissapointed. 
+
+            
+
+    <img src="https://cdn.pixabay.com/photo/2020/09/05/01/57/bacterias-5545353_960_720.png" alt="weird moldy stuff" width="203"> 
+
+    
+
+        <h6>2/21/2020</h6>
+
+        I tried eating the cheese today, followed by a trip to the ER for food poisoning. I still think it might be better now that it has aged, but the doctor disagreed.
+
+        
+
+        <h6>2/21/2020</h6>
+
+        I think i dont like cheese anymore.
+
+        
+
+        
+
+        <p> <br> things i learned from this. </p>
+
+            
+
+    <ol>
+
+        <li>Never buy too much cheese.</li>
+
+        <li>The best cheese is fried cheese at a fair, <br>served by a <strong>professional</strong> Carny. </li>
+
+        <li>never listen to doctors.</li>
+
+    </ol>
+
+    
+
+    <br> The best sight to get further information regarding this subject would be: <a href="https://finance.yahoo.com/news/weird-news--cheese-makers-may-sue-porn-site-183039769.html">"Cheese maker sues pornhub"</a>
+
+    
+
+    <p class="cheeseinfo"> "you cant make everyone happy, you are not cheese" <strong> anonomous</strong>"  </p>
+
+    
+
+        
+
+    </body>
+
+</html>
